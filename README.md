@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Aryan </h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <div size='20px'>Thank You for taking the time to view my GitHub Profile. </div>
 
 <br>
