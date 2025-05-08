@@ -8,7 +8,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </h2>
 
-- 🔭 I have interests in **MERN stack Development**
+- 🔭 I have interests in **MERN stack Development, Data Science, & AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/artyalert](https://github.com/artyalert)
 
